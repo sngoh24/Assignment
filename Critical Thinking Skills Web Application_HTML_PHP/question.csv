@@ -1,0 +1,28 @@
+"id";"title";"image";"score";"avgScore";"status"
+"1";"There was a power failure in the house. Mrs. Lim lighted up 10 candles. After sometime, four candles were blown out by the wind. Later, another three candles were blown out. How many candles remained on the following day?";"candles.png";"5";"0.34";"1"
+"2";"There are 20 people who love to solve puzzles. They met to solve puzzles together. Among them, three are friends (i.e., already known each other). During their first face-to-face meeting, they shook hands with each other (with unknowns only) except for the three who were already known to each other. 
+Question: How many handshaking took place in this meeting?";"handshake.png";"5";"0.34";"1"
+"3";"There are altogether 100 birds and turtles. The total number of legs is 276. 
+Question: How many birds and turtles are there, respectively?";"turtlebird.png";"10";"3.22";"1"
+"4";"Move the following numbers to make them equal, mathematically. Write your answer below.
+	2      4     =     6     7";"2467.png";"5";"0.14";"1"
+"5";"There are four (4) students: A, B, C, and D. They are discussing about their academic results. A says: If I get distinction, then B also gets distinction. B says: If I get distinction, then C also gets distinction. C says: If I get distinction, then D also gets distinction. All the four students are telling the truth. However, among these four students, only two students get distinctions. Who are the two students who got distinctions?";"cert.png";"10";"4.08";"1"
+"6";"There are three (3) boxes: a gold box, a silver box, and a red box. On top of each of the boxes, there is a sentence. In one of these three boxes, only one box contains a photo. The sentence on the gold box says: The photo is not inside the silver box. The sentence on the silver box says: The photo is not inside this box. The sentence on the red box says: The photo is inside this box. Among these three sentences, at least one sentence is true, and at least one sentence is false. 
+Question: Which box contains the photo?";"boxes.png";"5";"3.49";"1"
+"7";"Two thin wooden sticks take one (1) hour to complete burning, respectively. What is the method you will use to measure 15 minutes of burning time? Describe briefly and draw diagram(s) to illustrate your answer.";"stick.png";"5";"0.00";"1"
+"8";"There are four people: A, B, C, and D. They are predicting the future career for each other: dancer, fortune teller, novelist, and TV host.  Based on their statements given below, only the statement given by the fortune teller is true.
+A: B will absolutely never become a dancer.
+B: C will become a fortune teller.
+C: D will never become a TV host.
+D: I&apos;ll marry Mr. P
+Question: What are the respective career of A, B, C, and D, and will D marry Mr. P?";"crystalball.png";"25";"1.30";"1"
+"9";"There are two brothers, one of whom is fat and the other is thin. The elder brother will tell the truth in the morning, and will tell lie in the afternoon. The younger brother will be the reverse (i.e., tells lie in the morning, and tells the truth in the afternoon).
+One man asked these two brothers: Who is the elder brother?
+The fat one said: I&apos;m the elder brother.
+The thin one also said: I&apos;m the elder brother.
+The man asked again: What is the time now?
+The fat one said: Almost noon.
+The thin one also said: Already noon.
+
+Question: What is the time now (morning or afternoon), and who is the elder brother (the fat one or the thin one)?";"brother.png";"10";"2.98";"1"
+"10";"In a room, there are two men. One tells the truth and the other tells lie. You&apos;re in the room, and you want to leave the room from one of the exits (doors). There is a lion behind one of the exit. The other exit is safe. What is the question (ONE question ONLY) you will ask one of the men to know which is the safe exit?";"twodoors.png";"5";"0.00";"1"
