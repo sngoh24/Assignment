@@ -1,0 +1,17 @@
+Time	Driver/ Passenger	Driver/ Passenger ID	Action	
+0	A	P001	added	
+0	Taxi	D001	heading to A's source (2, 5)	
+1	Taxi	D001	 moved right	
+2	Taxi	D001	 moved right	
+3	Taxi	D001	 moved right	
+4	Taxi	D001	 moved right	
+5	Taxi	D001	 moved right	
+6	Taxi	D001	 moved down	
+7	Taxi	D001	 moved down	
+8	Taxi	D001	 fetching A : (2, 5)	
+8	A	P001	 is in Taxi's car	
+9	Taxi	D001	 moved right	
+10	Taxi	D001	 moved down	
+11	Taxi	D001	 moved down	
+12	Taxi	D001	 dropped A : (2, 5)	
+12	A	P001	 left Taxi's car	
